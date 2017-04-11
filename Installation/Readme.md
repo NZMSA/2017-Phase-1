@@ -2,7 +2,7 @@
 # Visual Studio 2017 - Installation with Xamarin
 <p>
 
-Welcome. This guide will assist users running <b> Windows </b> install Visual Studio 2017 Community with the tools nessecary for Xamarin and Azure.  If you are on a Mac, follow the guide here: 
+Welcome. This guide will assist users running <b> Windows </b> install Visual Studio 2017 Community with the tools nessecary for Xamarin and Azure.  If you are on a Mac, follow the guide here: (COMING SOON)
 
 </p>
 
@@ -11,7 +11,7 @@ Welcome. This guide will assist users running <b> Windows </b> install Visual St
 - 	Device running Windows 10 (Any Version)
 -	30GB of available space
 
-### Install
+# Install
 
 1. Download Visual Studio Community Installer from https://www.visualstudio.com/.
 
@@ -24,8 +24,7 @@ Welcome. This guide will assist users running <b> Windows </b> install Visual St
 3. Select "Install" and wait for it to finish.
 
 
-
-### Get Started
+# Launch & Deploy
 
 1.  Open Visual Studio 2017
 
