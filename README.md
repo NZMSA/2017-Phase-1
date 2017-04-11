@@ -12,7 +12,7 @@
 
 <tr>
 <th>Topic</th>
-<th>Demo Script</th>
+<th>Guide</th>
 <th>Demo Video</th>
 </tr>
 
@@ -21,13 +21,13 @@
 <tbody>
 
 <tr>
-<td>Visual Studio 2017 Install and Performance</td>
-<td><a href="/Installation and better Performance">Demo Script</a></td>
+<td>Visual Studio 2017 Install</td>
+<td><a href="/Installation">Demo Script</a></td>
 <td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">Demo Video</a></td>
 </tr>
 
 <tr>
-<td>Visual Studio and Xamarin</td>
+<td>Using Xamarin in Practice - Extra</td>
 <td><a href="/XamarinCycle9">Demo Script</a></td>
 <td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=1h08m15s">Demo Video</a></td>
 </td>
