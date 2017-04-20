@@ -2,7 +2,7 @@
 # Visual Studio 2017 - Installation with Xamarin
 <p>
 
-Welcome. This guide will assist users running <b> Windows </b> install Visual Studio 2017 Community with the tools nessecary for Xamarin and Azure.  If you are on a Mac, follow the guide here: (COMING SOON)
+Welcome. This guide will assist users running <b> Windows </b> install Visual Studio 2017 Community with the tools nessecary for Xamarin and Azure.  If you are on a Mac, follow the guide [here](../Installation Mac)
 
 </p>
 
