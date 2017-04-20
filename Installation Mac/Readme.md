@@ -1,19 +1,19 @@
 
-# Visual Studio 2017 - Installation with Xamarin
+# Xamarin Studio - Installation on Mac
 <p>
 
-Welcome. This guide will assist users running <b> Windows </b> install Visual Studio 2017 Community with the tools nessecary for Xamarin and Azure.  If you are on a Mac, follow the guide here: (COMING SOON)
+Welcome. This guide will assist users running <b> Mac </b> install Xamarin Studio Community with the tools nessecary for Xamarin.  If you are on a Windows, follow the guide [here](https://github.com/NZMSA/2017-Phase-1/tree/master/Installation%20Windows)
 
 </p>
 
 # Prerequisites
 
-- 	Device running Windows 10 (Any Version)
--	30GB of available space
+- 	Device running Mac (either OS X El Capitan (10.11) or macOS Sierra (10.12))
+-	Latest version of Xcode
 
 # Install
 
-1. Download Visual Studio Community Installer from https://www.visualstudio.com/.
+1. Download Xamarin Studio Community Installer from https://www.xamarin.com/download.
 
 <img src="media/image1.png"  width="1024"/>
 
