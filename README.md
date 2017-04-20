@@ -21,8 +21,14 @@
 <tbody>
 
 <tr>
-<td>Visual Studio 2017 Install</td>
-<td><a href="/Installation">Demo Script</a></td>
+<td>Visual Studio 2017 Install (Windows)</td>
+<td><a href="/Installation Windows">Demo Script</a></td>
+<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">Demo Video</a></td>
+</tr>
+
+<tr>
+<td>Xamarin Studio Install (Mac)</td>
+<td><a href="/Installation Mac">Demo Script</a></td>
 <td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">Demo Video</a></td>
 </tr>
 
