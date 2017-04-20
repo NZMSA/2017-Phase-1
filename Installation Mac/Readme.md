@@ -40,3 +40,33 @@ Xamarin Studio does not include the iOS simulator and will not deploy to an iOS 
 1. Download Xcode through either the App Store and searching for 'Xcode' or by navigating to https://itunes.apple.com/nz/app/xcode/id497799835?mt=12
 
  <img src="media/image5.png"  width="1024"/>
+
+ # Create Project
+
+1.  Open Xamarin Studio
+
+<img src="media/l1.png"  width="1024"/>
+
+2. Select 'New Solution...'
+
+<img src="media/l2.png"  width="1024"/>
+
+3. Under Multiplatform > App > Forms App and click 'Next'.
+
+<img src="media/l3.png"  width="1024"/> 
+
+4. Give your app a name. Make sure 'Android' and 'iOS' are checked. We want 'Use Protable Class Library' selected. 'Use XAML for user interface files should also be checked. Click 'Next' when you're done.	
+
+<img src="media/l4.png"  width="1024"/>
+
+5. Edit the project name and solution name to whatever you like or leave it as it is. If you want to change the location the project is saved to this is where you do it. Click 'Create' when you're done.
+
+<img src="media/l5.png"  width="1024"/>
+
+This will create a blank Xamarin project for you. Deploy it and check it out!
+
+<b> IMPORTANT STEP </b> For Module One, you need to change the UI to display your name somewhere. 
+
+# Deploy It
+
+It's now time to actually run your app! A screenshot of this is required for module one.
