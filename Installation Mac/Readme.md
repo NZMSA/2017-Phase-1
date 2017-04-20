@@ -31,6 +31,12 @@ Welcome. This guide will assist users running <b> Mac </b> install Xamarin Studi
 
 # Install Xcode
 
+<p>
+
+Xamarin Studio does not include the iOS simulator and will not deploy to an iOS device without first downloading and installing Xcode.
+
+</p>
+
 1. Download Xcode through either the App Store and searching for 'Xcode' or by navigating to https://itunes.apple.com/nz/app/xcode/id497799835?mt=12
 
  <img src="media/image5.png"  width="1024"/>
