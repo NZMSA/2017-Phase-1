@@ -17,36 +17,20 @@ Welcome. This guide will assist users running <b> Mac </b> install Xamarin Studi
 
 <img src="media/image1.png"  width="1024"/>
 
-2. Open the installer. You will be presented with a lot of options. For MSA right now, select "Xamarin Cross Platform" and "Azure Development".
+2. Open the installer. You will be presented with a lot of options. For MSA right now, leave everything selected and click 'Continue'.
 
 <img src="media/image2.png"  width="1024"/>
 
-3. Select "Install" and wait for it to finish.
+3. Select where you like to install Xamarin and click 'Continue'.
 
+<img src="media/image3.png"  width="1024"/>
 
-# Create Project
+4. Click 'Install' and let it do its thing. This may take awhile depending on your internet connection. You may be prompted during the installation to enter your admin password so be ready for that.
 
-1.  Open Visual Studio 2017
+<img src="media/image4.png"  width="1024"/>
 
-<img src="media/l1.png"  width="1024"/>
+# Install Xcode
 
-2. Select File > New Project
+1. Download Xcode through either the App Store and searching for 'Xcode' or by navigating to https://itunes.apple.com/nz/app/xcode/id497799835?mt=12
 
-<img src="media/l2.png"  width="1024"/>
-
-3. Under Installed > Templates > Visual C#, select ‘Cross Platform App (Xamrin.Forms or Native)’ and click OK.
-
-<img src="media/l3.png"  width="1024"/> 
-
-4. Check the boxes ‘Xamrin.Forms’ and ‘Portable Class Library(PCL)’ then click OK. 	
-
-<img src="media/l4.png"  width="1024"/>
-
-This will create a blank Xamarin project for you. Deploy it and check it out!
-
-<b> IMPORTANT STEP </b> For Module One, you need to change the UI to display your name somewhere. 
-
-# Deploy It
-
-It's now time to actually run your app! A screenshot of this is required for module one.
-
+ <img src="media/image5.png"  width="1024"/>
