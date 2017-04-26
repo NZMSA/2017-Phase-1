@@ -54,6 +54,24 @@ This will create a blank Xamarin project for you. Deploy it and check it out!
 <b> IMPORTANT STEP </b> For Module One, you need to change the UI to display your name somewhere. 
 
 # Deploy It
-
 It's now time to actually run your app! A screenshot of this is required for module one.
 
+1. With your newly created project, under the drop down you will see different android emulators to choose from. 
+
+<p align="center">We suggest you use  <b>VisualStudio_android-23_x86_phone</b>.</p> 
+
+<img src="media/l5.png"  width="1024"/>
+
+2. Try launching your app with the emulator by clicking the green arrow button, or pressing Ctrl + F5.
+
+<img src="media/l6.png" width="1024"/>
+
+Your app should be installed on the emulator, and says "Welcome to Xamarin Forms!"
+
+<img src="media/l7.png"  width="1024"/>
+
+3. In the Solution Explorers, navigate to 'MainPage.xaml', and proceed to change the text of the label. (e.g. Your name)
+
+<img src="media/l8.png"  width="1024"/>
+
+Go ahead, and relaunch the app to see the changes! 
