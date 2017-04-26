@@ -6,6 +6,13 @@ Welcome. This guide will assist users running <b> Windows </b> install Visual St
 
 </p>
 
+# A Complete Walk-through Tutorial
+
+This video will walk you through how to complete module one as well as creating a simple game using Xamarin.
+
+<a href="https://www.youtube.com/watch?v=gm-RgfdaISU&t" target="_blank"><p align="center"><img src="media/videothumbnail.PNG" 
+alt="MSA module one tutorial" width="600" border="10" /></p></a>
+
 # Prerequisites
 
 - 	Device running Windows 10 (Any Version)
