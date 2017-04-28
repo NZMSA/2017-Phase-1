@@ -6,6 +6,13 @@ Welcome. This guide will assist users running <b> Windows </b> install Visual St
 
 </p>
 
+# A Complete Walk-through Tutorial
+
+This video will walk you through how to complete module one as well as creating a simple game using Xamarin.
+
+<a href="https://www.youtube.com/watch?v=gm-RgfdaISU&t" target="_blank"><p align="center"><img src="media/videothumbnail.PNG" 
+alt="MSA module one tutorial" width="600" border="10" /></p></a>
+
 # Prerequisites
 
 - 	Device running Windows 10 (Any Version)
@@ -47,6 +54,24 @@ This will create a blank Xamarin project for you. Deploy it and check it out!
 <b> IMPORTANT STEP </b> For Module One, you need to change the UI to display your name somewhere. 
 
 # Deploy It
-
 It's now time to actually run your app! A screenshot of this is required for module one.
 
+1. With your newly created project, under the drop down you will see different android emulators to choose from. 
+
+<p align="center">We suggest you use  <b>VisualStudio_android-23_x86_phone</b>.</p> 
+
+<img src="media/l5.png"  width="1024"/>
+
+2. Try launching your app with the emulator by clicking the green arrow button, or pressing Ctrl + F5.
+
+<img src="media/l6.png" width="1024"/>
+
+Your app should be installed on the emulator, and says "Welcome to Xamarin Forms!"
+
+<img src="media/l7.png"  width="1024"/>
+
+3. In the Solution Explorers, navigate to 'MainPage.xaml', and proceed to change the text of the label. (e.g. Your name)
+
+<img src="media/l8.png"  width="1024"/>
+
+Go ahead, and relaunch the app to see the changes! 
