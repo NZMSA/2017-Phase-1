@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="---TODO"/>
+<img src="image/xamarin-logo.png"  width="1024"/>
 </p>
 
 <br>
