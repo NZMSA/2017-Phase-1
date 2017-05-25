@@ -14,7 +14,7 @@ If after creating your project for the first time you receive a IDE0006 warning 
 
 </p>
 
-<img src="media/IDE0006Warning.png"  width="1024"/>
+<img src="media/IDE0006Warning.PNG"  width="1024"/>
 
 ```
 Severity	Code	Description	Project	File	Line	Suppression State
@@ -70,15 +70,15 @@ If the above steps still don't work for you, try disabling 'Shared Mono Runtime'
 
 5a. Right click on your Android project.
 
-<img src="media/sharedmono1win.png"  width="1024"/>
+<img src="media/SharedMono1Win.png"  width="1024"/>
 
 5b. Click on 'Properties'
 
-<img src="media/sharedmono2win.png"  width="1024"/>
+<img src="media/SharedMono2Win.png"  width="1024"/>
 
 5c. Click 'Android Options', make sure 'Use Shared Runtime' is unchecked, and then click save.
 
-<img src="media/sharedmono3win.png"  width="1024"/>
+<img src="media/SharedMono3Win.png"  width="1024"/>
 
 6. Now repeat steps 1-4 and you should be good.
 
